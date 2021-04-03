@@ -1,0 +1,16 @@
+/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/bin/Debug/net5.0/Ame
+/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/bin/Debug/net5.0/Ame.deps.json
+/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/bin/Debug/net5.0/Ame.runtimeconfig.json
+/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/bin/Debug/net5.0/Ame.runtimeconfig.dev.json
+/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/bin/Debug/net5.0/Ame.dll
+/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/bin/Debug/net5.0/ref/Ame.dll
+/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/bin/Debug/net5.0/Ame.pdb
+/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/obj/Debug/net5.0/Ame.csprojAssemblyReference.cache
+/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/obj/Debug/net5.0/Ame.GeneratedMSBuildEditorConfig.editorconfig
+/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/obj/Debug/net5.0/Ame.AssemblyInfoInputs.cache
+/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/obj/Debug/net5.0/Ame.AssemblyInfo.cs
+/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/obj/Debug/net5.0/Ame.csproj.CoreCompileInputs.cache
+/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/obj/Debug/net5.0/Ame.dll
+/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/obj/Debug/net5.0/ref/Ame.dll
+/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/obj/Debug/net5.0/Ame.pdb
+/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/obj/Debug/net5.0/Ame.genruntimeconfig.cache

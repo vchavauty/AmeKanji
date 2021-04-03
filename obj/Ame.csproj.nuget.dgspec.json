@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/Ame.csproj": {}
+  },
+  "projects": {
+    "/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/Ame.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/Ame.csproj",
+        "projectName": "Ame",
+        "projectPath": "/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/Ame.csproj",
+        "packagesPath": "/home/vchavauty/.nuget/packages/",
+        "outputPath": "/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vchavauty/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
