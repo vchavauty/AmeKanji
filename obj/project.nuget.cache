@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "p19U8VkHmo+/yMGD+blpUqUQv3VbPHytVkkSNUheODJ2SOKVvSWYKFGq7Y77UE9Hk0/SkYNC6Re2ZEAU0fYZPA==",
+  "dgSpecHash": "fQulFKo5Xjx7j4byY27qduFlnkY6KIgBs919UF7cIEIOET1evrV+Bk1+CW943dnU9XNvmDruQsJ+lDMIL1SjaQ==",
   "success": true,
   "projectFilePath": "/home/vchavauty/Documents/Coding/AmeKanjiWeb/Ame/Ame.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/vchavauty/.nuget/packages/htmlagilitypack/1.11.32/htmlagilitypack.1.11.32.nupkg.sha512",
+    "/home/vchavauty/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
